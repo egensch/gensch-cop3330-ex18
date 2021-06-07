@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class exercise18 {
     public static void main(String[] args) {
         Scanner conversion = new Scanner(System.in);
-        char C;
 
         System.out.println("Press C to convert from Fahrenheit to Celsius.");
         System.out.println("Press F to convert from Celsius to Fahrenheit.");
